@@ -1,3 +1,2 @@
 john
-linea dos
-linea tres
+probando el checkout
